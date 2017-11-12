@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "movieThird/favoriteViewController.swift"
+            timestampString = "510690012.719089"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "88"
+            endingLineNumber = "88"
+            landmarkName = "loginPressed(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "movieThird/peelViewController.swift"
+            timestampString = "510115848.384428"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "peelViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "movieThird.peelViewController.__deallocating_deinit"
+                  moduleName = "movieThird"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/terrylu/Desktop/cse438/movieThird/movieThird/peelViewController.swift"
+                  timestampString = "510115848.411396"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "movieThird.peelViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; movieThird.peelViewController"
+                  moduleName = "movieThird"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/terrylu/Desktop/cse438/movieThird/movieThird/peelViewController.swift"
+                  timestampString = "510115848.414585"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "70">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "movieThird.peelViewController.__allocating_init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; movieThird.peelViewController"
+                  moduleName = "movieThird"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/terrylu/Desktop/cse438/movieThird/movieThird/peelViewController.swift"
+                  timestampString = "510115848.416176"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "movieThird.peelViewController.__allocating_init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;movieThird.peelViewController&gt;"
+                  moduleName = "movieThird"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/terrylu/Desktop/cse438/movieThird/movieThird/peelViewController.swift"
+                  timestampString = "510115848.417583"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "movieThird.peelViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;movieThird.peelViewController&gt;"
+                  moduleName = "movieThird"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/terrylu/Desktop/cse438/movieThird/movieThird/peelViewController.swift"
+                  timestampString = "510115848.418859"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "movieThird/favoriteViewController.swift"
+            timestampString = "510690012.719089"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "242"
+            endingLineNumber = "242"
+            landmarkName = "fetchDetailedData(movieName:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
